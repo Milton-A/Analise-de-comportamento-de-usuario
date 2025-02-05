@@ -1,4 +1,4 @@
-```md
+
 # Análise e Clusterização de Tweets
 
 Este repositório contém um código para análise, limpeza, visualização e clusterização de um conjunto de dados de tweets. O pipeline permite explorar as informações contidas no dataset e segmentar os tweets em grupos distintos.
